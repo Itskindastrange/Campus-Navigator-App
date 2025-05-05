@@ -31,4 +31,4 @@ The backend is configured for deployment on Render. See `backend/render.yaml` fo
 ## API Endpoints
 
 - `POST /predict`: Accepts an image file and returns prediction results
-- `GET /health`: Health check endpoint 
+- `GET /health`: Health check endpoint
